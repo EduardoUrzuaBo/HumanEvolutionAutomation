@@ -1,0 +1,13 @@
+output/
+
+target/
+
+bin/
+
+.classpath
+
+.settings/*
+
+.metadata/*
+
+output\\loggigng.log
